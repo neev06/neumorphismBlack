@@ -1,0 +1,24 @@
+body{
+background: #343434;
+}
+
+.social-button{
+position: relative;
+left: 40%;
+text-align: center;
+width : 80px;
+height :80px;
+border-radius: 40px; 
+margin: 80px;
+background: #4a4a4a;
+-webkit-box-shadow: 5px 5px 11px #343434,
+-5px -5px 11px #606060;
+box-shadow: 5px 5px 11px #343434,
+-5px -5px 11px #606060;
+
+}
+.icon{
+ text-align: center;
+ font-size: 1.5em;
+ padding: 25px;
+}
